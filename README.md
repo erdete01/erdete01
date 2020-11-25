@@ -10,7 +10,8 @@ I am currently implementing an updated version of Luther College’s news platfo
 
 Web Projects
 * [temuuulenab.com - My Personal Website](https://github.com/erdete01/personal-website)
-* [Referral Form - ReactJs Project](https://github.com/MITPU/referral)
+* [Magician website - Collaborating to develop user-friendly features for my managers](https://github.com/muleje01/magician)
+* [Referral - ReactJs Project](https://github.com/MITPU/referral)
 * [Book Store - Recommends you a book based on ratings](https://github.com/erdete01/Full-Stack/tree/master/projects/final_project)
 * [First web page - First project](https://github.com/erdete01/Full-Stack/tree/master/CS130/final)
 
