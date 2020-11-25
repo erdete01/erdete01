@@ -17,8 +17,8 @@ Web Projects
 
 
 Networking
-* [traceroute command - implemented my own made traceroute command](https://github.com/erdete01/Computer-Networks/tree/project5)
+* [traceroute command - Implemented my own made traceroute command](https://github.com/erdete01/Computer-Networks/tree/project5)
 * [router - My own router that communicates with other routers](https://github.com/erdete01/Computer-Networks/tree/project5)
 
 Others
-* [Interview prep - goal is to solve one problem every day](https://github.com/erdete01/interview-prep)
+* [Interview prep - Goal is to solve one problem every day](https://github.com/erdete01/interview-prep)
