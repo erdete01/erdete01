@@ -20,5 +20,8 @@ Networking
 * [traceroute command - Implemented my own made traceroute command](https://github.com/erdete01/Computer-Networks/tree/project5)
 * [router - My own router that communicates with other routers](https://github.com/erdete01/Computer-Networks/tree/project5)
 
+Research
+* [API Usage and Security](https://github.com/erdete01/research-paper/blob/master/research-paper.pdf)
+
 Others
 * [Interview prep - Goal is to solve one problem every day](https://github.com/erdete01/interview-prep)
