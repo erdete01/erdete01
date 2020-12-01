@@ -4,7 +4,7 @@ My name is Temuulen Erdenebulgan. I study Computer Science at Luther College. We
 
 You can view my personal website at `temuulenab.com` and reach me at `temuulenab@gmail.com`. If you have a project or opportunity that you like to involve me in, send me an email or DM!
 
-I am currently implementing an updated version of Luther College’s news platform used by over 2300 Luther members. You can see the progress here `https://luther-link-react.herokuapp.com/home`
+I am currently implementing an updated version of Luther College news platform used by over 2300 Luther members. You can see the progress here `https://luther-link-react.herokuapp.com/home`
 
 **Here are some of my projects on GitHub.:**
 
