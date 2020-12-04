@@ -17,7 +17,7 @@ Web Projects
 
 
 Networking
-* [traceroute command - Implemented my own made traceroute command](https://github.com/erdete01/Computer-Networks/tree/project5)
+* [traceroute command - Implemented my own made traceroute command](https://github.com/erdete01/Computer-Networks/tree/project5/src/projects/traceroute)
 * [router - My own router that communicates with other routers](https://github.com/erdete01/Computer-Networks/tree/project6/src/projects/routing)
 
 Research
